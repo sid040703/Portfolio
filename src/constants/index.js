@@ -47,6 +47,5 @@ export const PROJECTS=[
 ];
 export const CONTACT = {
     address: "Pune,Maharashtra ",
-    phoneNo: "8652390575 ",
     email: "siddhiove0407@gmail.com",
   };

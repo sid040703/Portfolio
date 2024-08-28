@@ -13,8 +13,12 @@ import React from "react"
         < VscFlame/>
         </div>
         <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-         <FaLinkedin/>
-         <FaGithub/>
+        <a href="www.linkedin.com/in/siddhi-ove-304596250" target="_blank" rel="noopener noreferrer">
+         <FaLinkedin />
+         </a>
+         <a href="https://github.com/sid040703" target="_blank" rel="noopener noreferrer">
+          <FaGithub />
+        </a>
          <FaSquareXTwitter/>
         </div>
 

@@ -12,7 +12,7 @@ transition={{duration:1.5}}
 className="my-10 text-center text-4xl">Get In Touch</motion.h1>
 <div className="text-center">
     <p className="my-4">{CONTACT.address}</p>
-    <p className="my-4">{CONTACT.phoneNo}</p>
+  
     <a href="" className="">{CONTACT.email}</a>
 
 </div>
